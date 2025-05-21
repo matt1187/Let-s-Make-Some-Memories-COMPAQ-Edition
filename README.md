@@ -3,7 +3,7 @@
 
 Gerber File is published.
 
--List for Substitute type for  441000 and 411000 DRAM coming soon.
+-List for Substitute type for  441000 and 411000 DRAM for 4MB module .... coming soon.
 
 
 ![photo_2025-02-14_14-16-38](https://github.com/user-attachments/assets/9095adff-53bb-461a-bf91-3b8309b971a9)

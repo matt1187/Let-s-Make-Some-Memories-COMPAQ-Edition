@@ -10,6 +10,7 @@ Gerber File is published.
 
 # DRAM cross reference 
 - 4 MB config
+  
 |Supplier|441000|411000|
 |--------------|--------|--------|
 |Fujitsu|MB81C41000|MB81C1000|
@@ -24,6 +25,7 @@ Gerber File is published.
 |TI|TMS44400|TMS4C1024|
 |Motorola|MCM514400|MCM511000|
 |Hyundai|HY514400|HY51C100|
+
 - 1 MB config
 |Supplier|44256|41256|
 |--------------|--------|--------|

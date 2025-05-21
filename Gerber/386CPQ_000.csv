@@ -1,0 +1,16 @@
+
+"Component Count:","48"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","supplier"; "supplier-reference";
+"C1, C2, C3, C10, C14, C18, C20, C24, C28, C30, C34, C38, C40, C44, C48, ","15","100n","C","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor","Mouser","581-08055C104K"
+"C5, C6, C7, C8, ","4","10µF 16V","CP","Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U","Polarized capacitor","Mouser","80-T491C106M0167280"
+"J301, J401, ","2","Conn_02x20_Top_Bottom","Conn_02x20_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical","Generic connector, double row, 02x20","Mouser","200-SSQ12001LD "
+"JP1, ","1","SolderJumper_2_Bridged","SolderJumper_2_Bridged","Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm","Solder Jumper, 2-pole, closed/bridged","jlcpcb","part of pcb ;-)"
+"JP2, ","1","SolderJumper_2_Open","SolderJumper_2_Open","Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm","Solder Jumper, 2-pole, open","jlcpcb","just a part of pcb"
+"R1, R7, R8, R9, R10, ","5","33","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW080533R0FKEAC"
+"R11, R12, ","2","22","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW080522R0FKEAC "
+"RN1, RN2, ","2","4x22","R_Pack04","Resistor_SMD:R_Array_Concave_4x0603","4 resistor network, parallel topology, DIP package","Mouser","652-CAY16-22R0F4LF "
+"RN3, ","1","4x33","R_Pack04","Resistor_SMD:R_Array_Concave_4x0603","4 resistor network, parallel topology, DIP package"," Mouser","652-CAY16-33R0F4LF"
+"U1, ","1","74F827","74LS827","Package_SO:SOIC-24W","8-bit Bus Buffer 3-State outputs","various","74F827"
+"U2, U3, ","2","74F32","74LS32","Package_SO:SOIC-14","Quad 2-input OR","Mouser","595-SN74F32DR"
+"U10, U14, U20, U24, U30, U34, U40, U44, ","8","441000","441000","Package_SO_J-Lead:SOJ-20-Socket-LongPads","1Mx4 DRAM","various",""
+"U18, U28, U38, U48, ","4","411000","411000","Package_SO_J-Lead:SOJ-20-Socket-LongPads","1Mx1 DRAM","various",""

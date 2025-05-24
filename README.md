@@ -34,7 +34,7 @@ Gerber File is published.
 
 # config of amount of memory size.  
 - JP1 -> 4 MB, standard config. (PCB has closed jumper JP1 )
-- JP2 -> 1 MB  (44256 and 41256 instead 441000 and 411000 )
+- JP2 -> 1 MB (44256 and 41256 instead 441000 and 411000 and cutting JP1, soldering JP2 )
 
 ![image](https://github.com/user-attachments/assets/4024bdfe-9362-49e1-8800-44a7620b51df)
 

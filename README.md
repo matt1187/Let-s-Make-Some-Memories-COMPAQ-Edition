@@ -2,8 +2,8 @@
 1MB and 4MB Memory module for COMPAQ Deskpro 386 (Modell 2571 and 2572 )
 
 Gerber File is published.
-
-
+[![csv-file ](https://github.com/matt1187/Let-s-Make-Some-Memories-COMPAQ-Edition/blob/main/Gerber/386CPQ_000.csv)]
+[![gerber-file ](https://github.com/matt1187/Let-s-Make-Some-Memories-COMPAQ-Edition/blob/main/Gerber/386CPQ_000_hole_corrected.zip)]
 
 
 ![photo_2025-02-14_14-16-38](https://github.com/user-attachments/assets/9095adff-53bb-461a-bf91-3b8309b971a9)
@@ -31,7 +31,7 @@ Gerber File is published.
 |Supplier|44256|41256|
 |--------------|--------|--------|
 |Fujitsu|MB81C4256|MB81C256|
-
+|to|be|coutinued|
 # config of amount of memory size.  
 - JP1 -> 4 MB, standard config. (PCB has closed jumper JP1 )
 - JP2 -> 1 MB (44256 and 41256 instead 441000 and 411000 and cutting JP1, soldering JP2 )

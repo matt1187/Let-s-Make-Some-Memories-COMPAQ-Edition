@@ -1,5 +1,6 @@
 # Let-s-Make-Some-Memories-COMPAQ-Edition
-1MB and 4MB Memory module for COMPAQ Deskpro 386 (Modell 2571 and 2572 )
+1MB and 4MB Memory module for COMPAQ Deskpro 386 (Modell 2571, 2572 )
+Memory module works probably for Deskpro 386/20E and 386S 
 
 Gerber File is published.
 [![csv-file ](https://github.com/matt1187/Let-s-Make-Some-Memories-COMPAQ-Edition/blob/main/Gerber/386CPQ_000.csv)]

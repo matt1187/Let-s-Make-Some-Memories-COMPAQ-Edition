@@ -1,7 +1,14 @@
 # Let-s-Make-Some-Memories-COMPAQ-Edition
-1MB and 4MB Memory module for COMPAQ Deskpro 386 (Modell 2571, 2572 )
+1MB and 4MB Memory module for COMPAQ Deskpro 386/20  and 386/25
 Memory module works also on Deskpro 386/20E & 386/25E and 386S (Modell 2530) 
 Compaq assembly 000758-00 from Modell 2571 is reference and memory is change form 9 chip-config to 3 chip-config
+
+# compatibility
+- 2571 Deskpro 386/20
+- 2572 Deskpro 386/25
+- 2530 Deskpro 386S (w memory card 000966 / 000969 )
+- ???? Deskpro 386/20E
+- ???? Deskpro 386/25E
 
 Gerber File is published.
 [![csv-file ](https://github.com/matt1187/Let-s-Make-Some-Memories-COMPAQ-Edition/blob/main/Gerber/386CPQ_000.csv)]
